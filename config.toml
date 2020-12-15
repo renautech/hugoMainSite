@@ -8,10 +8,7 @@ theme = "hugo-coder"
   name = "Mes articles"
   weight = 1
   url  = "posts/"
-[[menu.main]]
-  name = "Expérience"
-  weight = 1
-  url  = "/tags/experience"
+
 
 [taxonomies]
   category = "categories"
