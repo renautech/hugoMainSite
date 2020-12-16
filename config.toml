@@ -4,11 +4,22 @@ title = "${Renautech}"
 theme = "hugo-coder"
 
 # Menu links
+#[[menu.main]]
+#  name = "Mes articles"
+#  weight = 1
+#  url  = "posts/"
 [[menu.main]]
-  name = "Mes articles"
+  name = "Activité"
   weight = 1
-  url  = "posts/"
-
+  url = "posts/company/activity"
+[[menu.main]]
+  name = "Expérience"
+  weight = 1
+  url = "posts/company/experience"
+[[menu.main]]
+  name = "Inspiration"
+  weight = 1
+  url = "posts/company/inspiration"
 
 [taxonomies]
   category = "categories"
@@ -39,15 +50,15 @@ disqusShortname = "yourdiscussshortname"
 [params]
   author = "Renaud Lamarre"
   info = "Développeur Full Stack JS et IT Senior Project Manager"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
+  description = "Renautech website"
+  keywords = "développeur fullstack, chef de projet, javascript, react, nodejs, application web, site web"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "/images/favicon-32x32.png"
   favicon_16 = "/images/favicon-16x16.png"
 
-  footercontent = "Site de présentations et de démonstrations"
+  footercontent = ""
   hideFooter = false
   hideCredits = false
   hideCopyright = false
