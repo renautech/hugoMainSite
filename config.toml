@@ -20,6 +20,14 @@ theme = "hugo-coder"
   name = "Inspiration"
   weight = 1
   url = "posts/company/inspiration"
+[[menu.main]]
+  name = "Les Jardins Connectés"
+  weight = 1
+  url = "posts/portfolio/jardinsconnectes"
+[[menu.main]]
+  name = "Glossaire"
+  weight = 2
+  url = "posts/glossary"
 
 [taxonomies]
   category = "categories"
@@ -43,6 +51,11 @@ theme = "hugo-coder"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/renautech/"
+[[params.social]]
+  name="Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 1
+  url="mailto:renautech.fr@gmail.com"
 
   paginate = 20
 

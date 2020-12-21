@@ -13,7 +13,7 @@ series = []
 
 Test insertion video youtube
 
-{{< youtube 2xkNJL4gJ9E >}}
+{{< youtube doV8TvNGKbE >}}
 
 {{< gist renautech 634b2f13f75fee5737f52e7f18c29fa8 >}}
 
