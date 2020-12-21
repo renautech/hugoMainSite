@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2020-12-21T14:32:17+01:00
-title = "glossaire"
-description = "glossaire des mots techniques"
+title = "Glossaire"
+description = "Glossaire des mots techniques"
 slug = ""
 authors = []
 tags = []

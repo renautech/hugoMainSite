@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2020-12-21T14:32:17+01:00
-title = "jardinsconnectes"
-description = "application Les Jardins Connectés"
+title = "Les Jardins Connectés"
+description = "L'application Les Jardins Connectés"
 slug = ""
 authors = []
 tags = []

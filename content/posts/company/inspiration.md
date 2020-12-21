@@ -2,7 +2,7 @@
 draft = false
 date = 2020-12-16T05:26:14+01:00
 title = "Inspiration"
-description = "mes sources d'inspiration"
+description = "Mes sources d'inspiration"
 slug = ""
 authors = []
 tags = []
