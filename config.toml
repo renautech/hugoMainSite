@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-languageCode = "en-us"
+languageCode = "fr"
 title = "${Renautech}"
 theme = "hugo-coder"
 
