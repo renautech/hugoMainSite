@@ -29,8 +29,8 @@ NodeJS permet de créer des applications Javascript exécutées sur des serveurs
 
 * __React__
 
-Une librairie Javascript pour générer du code exécuté sur le navigateur. Voir le [site officiel](https://fr.reactjs.org/).
+React est une librairie Javascript pour générer du code exécuté sur le navigateur. Voir le [site officiel](https://fr.reactjs.org/).
 
 * __Redux__
 
-Un gestionnaire d'état de composants, utilisé avec React mais pas seulement. Voir le [site officiel](https://redux.js.org/).
+Redux est un gestionnaire d'état de composants, utilisé avec React mais pas seulement. Voir le [site officiel](https://redux.js.org/).

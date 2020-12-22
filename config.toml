@@ -3,31 +3,58 @@ languageCode = "en-us"
 title = "${Renautech}"
 theme = "hugo-coder"
 
-# Menu links
-#[[menu.main]]
-#  name = "Mes articles"
-#  weight = 1
-#  url  = "posts/"
-[[menu.main]]
+defaultContentLanguage = "fr"
+
+[languages.fr]
+weight = 1
+languageName = "français"
+
+[[languages.fr.menu.main]]
   name = "Activité"
   weight = 1
   url = "posts/company/activity"
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Expérience"
   weight = 1
   url = "posts/company/experience"
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Inspiration"
   weight = 1
   url = "posts/company/inspiration"
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Les Jardins Connectés"
   weight = 1
   url = "posts/portfolio/jardinsconnectes"
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Glossaire"
   weight = 2
   url = "posts/glossary"
+
+[languages.en]
+weight = 2
+languageName = "English"
+[[languages.en.menu.main]]
+  name = "Activity"
+  weight = 1
+  url = "posts/company/activity"
+[[languages.en.menu.main]]
+  name = "Experience"
+  weight = 1
+  url = "posts/company/experience"
+[[languages.en.menu.main]]
+  name = "Inspiration"
+  weight = 1
+  url = "posts/company/inspiration"
+[[languages.en.menu.main]]
+  name = "Connected Gardens"
+  weight = 1
+  url = "posts/portfolio/jardinsconnectes"
+[[languages.en.menu.main]]
+  name = "Glossary"
+  weight = 2
+  url = "posts/glossary"
+
+
 
 [taxonomies]
   category = "categories"
@@ -63,15 +90,12 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
-
 [params]
   author = "Renaud Lamarre"
-  info = "Développeur Full Stack JS et IT Senior Project Manager"
+  info = "Full Stack Web developer and IT Senior Project Manager"
   description = "Renautech website"
-  keywords = "développeur fullstack, chef de projet, javascript, react, nodejs, application web, site web"
+  keywords = "fullstack developer, project manager, chef de projet, javascript, react, nodejs, web application, website"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
 
   favicon_32 = "/images/favicon-32x32.png"
   favicon_16 = "/images/favicon-16x16.png"
