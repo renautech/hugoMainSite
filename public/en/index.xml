@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>${Renautech}</title>
+    <link>http://localhost/en/</link>
+    <description>Recent content on ${Renautech}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 21 Dec 2020 14:32:17 +0100</lastBuildDate><atom:link href="http://localhost/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glossary</title>
+      <link>http://localhost/en/posts/glossary/</link>
+      <pubDate>Mon, 21 Dec 2020 14:32:17 +0100</pubDate>
+      
+      <guid>http://localhost/en/posts/glossary/</guid>
+      <description>API REST  Simply put, a REST API is an application hosted on a remote server that is queried by the browser using http or https. If you are curious, here is an article in French on the [Practical Programming] website (https://practicalprogramming.fr/api-rest/).
+ Back  In addition to the Front end, the Back end_ is the part of the application that runs on a server remotely from the user. The user interacts with the Back end via the interface on his browser.</description>
+    </item>
+    
+    <item>
+      <title>Les Jardins Connectés</title>
+      <link>http://localhost/en/posts/portfolio/jardinsconnectes/</link>
+      <pubDate>Mon, 21 Dec 2020 14:32:17 +0100</pubDate>
+      
+      <guid>http://localhost/en/posts/portfolio/jardinsconnectes/</guid>
+      <description>Web Application Connected Gardens / Les Jardins Connectés    [French video only]
+This application has a great story. It started in my head in 2019. I imagined to develop it in Python to have a unique language with&amp;hellip; connected objects. I teached Python at school, coded a bit on Raspberry and Arduino, so it was the most natural for me. In 2018 I developed in PHP with the Laravel framework, I could have use PHP too&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Inspiration</title>
+      <link>http://localhost/en/posts/company/inspiration/</link>
+      <pubDate>Wed, 16 Dec 2020 05:26:14 +0100</pubDate>
+      
+      <guid>http://localhost/en/posts/company/inspiration/</guid>
+      <description>Inspiration like breathing My inspiration comes from many domains. It&amp;rsquo;s so natural for me to change my perspective on a subject, like a breath.
+Let&amp;rsquo;s take the example of a web application to be developed for a specific. What are the codes of this job? Is it a rather visual job? High-tech? What are their values?
+I&amp;rsquo;m like a cartoonist who needs to understand the anatomy of an animal to better represent it.</description>
+    </item>
+    
+    <item>
+      <title>Activity</title>
+      <link>http://localhost/en/posts/company/activity/</link>
+      <pubDate>Tue, 15 Dec 2020 21:01:47 +0100</pubDate>
+      
+      <guid>http://localhost/en/posts/company/activity/</guid>
+      <description>Web application development Technically, I&amp;rsquo;m up to date with the latest Javascript, React/Redux and NodeJS developments with PostgreSQL/MongoDB databases.
+I have indeed followed a 6 months training in 2020. But I&amp;rsquo;ve been coding applications and websites for more than 10 years, some for my own professional needs in IT, others for customers as freelance.
+When I was IT manager, I worked on the supervision of the company&amp;rsquo;s network, a multi-site network of 6000 people in France.</description>
+    </item>
+    
+    <item>
+      <title>My experience</title>
+      <link>http://localhost/en/posts/company/experience/</link>
+      <pubDate>Tue, 15 Dec 2020 20:56:37 +0100</pubDate>
+      
+      <guid>http://localhost/en/posts/company/experience/</guid>
+      <description>Fifteen years of experience in Systems and Networks infrastructure project management.
+I have managed many projects of all sizes, the largest being multi-site international projects impacting several thousand people and budgets of several million euros.
+I&amp;rsquo;m used to manage systems and network operations (Microsoft, Cisco, HP, Dell&amp;hellip;).
+My management experience (10 people max) for more than 10 years allows me to manage a team with serenity.
+I recently added the skill of Web Developer.</description>
+    </item>
+    
+  </channel>
+</rss>

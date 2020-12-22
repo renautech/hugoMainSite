@@ -1,61 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>http://localhost/</loc>
-    <lastmod>2020-12-21T14:32:17+01:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>http://localhost/fr/sitemap.xml</loc>
+    
+      <lastmod>2020-12-21T14:32:17+01:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>http://localhost/posts/glossary/</loc>
-    <lastmod>2020-12-21T14:32:17+01:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>http://localhost/en/sitemap.xml</loc>
+    
+      <lastmod>2020-12-21T14:32:17+01:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>http://localhost/posts/portfolio/jardinsconnectes/</loc>
-    <lastmod>2020-12-21T14:32:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/posts/</loc>
-    <lastmod>2020-12-21T14:32:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/posts/company/inspiration/</loc>
-    <lastmod>2020-12-16T05:26:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/posts/company/activity/</loc>
-    <lastmod>2020-12-15T21:01:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/posts/company/experience/</loc>
-    <lastmod>2020-12-15T20:56:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/posts/shortcode-demo/</loc>
-    <lastmod>2020-12-15T13:40:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

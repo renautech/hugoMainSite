@@ -5,7 +5,7 @@
     <link>http://localhost/</link>
     <description>Recent content on ${Renautech}</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr</language>
     <lastBuildDate>Mon, 21 Dec 2020 14:32:17 +0100</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glossaire</title>
@@ -59,17 +59,6 @@ Lorsque j&amp;rsquo;étais responsable IT, j&amp;rsquo;ai travaillé sur la supe
 J&amp;rsquo;ai géré beaucoup de projets de toutes tailles, les plus gros étant des projets multisites à l&amp;rsquo;international impactant plusieurs milliers de personnes et des budgets de plusieurs millions d&amp;rsquo;euros.
 J&amp;rsquo;ai l&amp;rsquo;habitude de gérer l&amp;rsquo;exploitation systèmes et réseau (Microsoft, Cisco, HP, Dell&amp;hellip;).
 Mon expérience d&amp;rsquo;encadrement (10 personnes max) pendant plus de 10 ans me permet de gérer sereinement une équipe.</description>
-    </item>
-    
-    <item>
-      <title>shortcode demo</title>
-      <link>http://localhost/posts/shortcode-demo/</link>
-      <pubDate>Tue, 15 Dec 2020 13:40:56 +0100</pubDate>
-      
-      <guid>http://localhost/posts/shortcode-demo/</guid>
-      <description>Test insertion video youtube
-   Depuis 7 mois je suis concentré sur le développement d&amp;#39;applications Web en Javascript. En complément je viens de passer la certification #opquast, un ensemble de bonnes pratiques en développement Web. C&amp;#39;est très instructif et surtout très utile dans tout…https://t.co/b4jwGX8NQl
-&amp;mdash; renautech (@renautech) December 8, 2020  </description>
     </item>
     
   </channel>
