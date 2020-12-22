@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on ${Renautech}</title>
-    <link>http://localhost/authors/</link>
+    <link>https://blog.renautech.fr/authors/</link>
     <description>Recent content in Authors on ${Renautech}</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://localhost/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://blog.renautech.fr/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

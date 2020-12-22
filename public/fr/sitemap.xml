@@ -3,163 +3,163 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>https://blog.renautech.fr/</loc>
     <lastmod>2020-12-21T14:32:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/"
+                href="https://blog.renautech.fr/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/"
+                href="https://blog.renautech.fr/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/posts/glossary/</loc>
+    <loc>https://blog.renautech.fr/posts/glossary/</loc>
     <lastmod>2020-12-21T14:32:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/posts/glossary/"
+                href="https://blog.renautech.fr/en/posts/glossary/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/posts/glossary/"
+                href="https://blog.renautech.fr/posts/glossary/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/posts/portfolio/jardinsconnectes/</loc>
+    <loc>https://blog.renautech.fr/posts/portfolio/jardinsconnectes/</loc>
     <lastmod>2020-12-21T14:32:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/posts/portfolio/jardinsconnectes/"
+                href="https://blog.renautech.fr/en/posts/portfolio/jardinsconnectes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/posts/portfolio/jardinsconnectes/"
+                href="https://blog.renautech.fr/posts/portfolio/jardinsconnectes/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/posts/</loc>
+    <loc>https://blog.renautech.fr/posts/</loc>
     <lastmod>2020-12-21T14:32:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/posts/"
+                href="https://blog.renautech.fr/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/posts/"
+                href="https://blog.renautech.fr/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/posts/company/inspiration/</loc>
+    <loc>https://blog.renautech.fr/posts/company/inspiration/</loc>
     <lastmod>2020-12-16T05:26:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/posts/company/inspiration/"
+                href="https://blog.renautech.fr/en/posts/company/inspiration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/posts/company/inspiration/"
+                href="https://blog.renautech.fr/posts/company/inspiration/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/posts/company/activity/</loc>
+    <loc>https://blog.renautech.fr/posts/company/activity/</loc>
     <lastmod>2020-12-15T21:01:47+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/posts/company/activity/"
+                href="https://blog.renautech.fr/en/posts/company/activity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/posts/company/activity/"
+                href="https://blog.renautech.fr/posts/company/activity/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/posts/company/experience/</loc>
+    <loc>https://blog.renautech.fr/posts/company/experience/</loc>
     <lastmod>2020-12-15T20:56:37+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/posts/company/experience/"
+                href="https://blog.renautech.fr/en/posts/company/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/posts/company/experience/"
+                href="https://blog.renautech.fr/posts/company/experience/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/authors/</loc>
+    <loc>https://blog.renautech.fr/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/authors/"
+                href="https://blog.renautech.fr/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/authors/"
+                href="https://blog.renautech.fr/authors/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://blog.renautech.fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/categories/"
+                href="https://blog.renautech.fr/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/categories/"
+                href="https://blog.renautech.fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/series/</loc>
+    <loc>https://blog.renautech.fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/series/"
+                href="https://blog.renautech.fr/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/series/"
+                href="https://blog.renautech.fr/series/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://blog.renautech.fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/tags/"
+                href="https://blog.renautech.fr/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost/tags/"
+                href="https://blog.renautech.fr/tags/"
                 />
   </url>
   

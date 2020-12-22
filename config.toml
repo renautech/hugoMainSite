@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://blog.renautech.fr"
 languageCode = "fr"
 title = "${Renautech}"
 theme = "hugo-coder"
@@ -8,7 +8,7 @@ defaultContentLanguage = "fr"
 [languages.fr]
 weight = 1
 languageName = "français"
-baseURL = "https://blog.renautech.fr"
+#baseURL = "https://blog.renautech.fr"
 
 [[languages.fr.menu.main]]
   name = "Activité"
@@ -34,7 +34,7 @@ baseURL = "https://blog.renautech.fr"
 [languages.en]
 weight = 2
 languageName = "English"
-baseURL = "https://blog.renautech.fr"
+#baseURL = "https://blog.renautech.fr"
 
 [[languages.en.menu.main]]
   name = "Activity"

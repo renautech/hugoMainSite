@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>${Renautech}</title>
-    <link>http://localhost/</link>
+    <link>https://blog.renautech.fr/</link>
     <description>Recent content on ${Renautech}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 21 Dec 2020 14:32:17 +0100</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Dec 2020 14:32:17 +0100</lastBuildDate><atom:link href="https://blog.renautech.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glossaire</title>
-      <link>http://localhost/posts/glossary/</link>
+      <link>https://blog.renautech.fr/posts/glossary/</link>
       <pubDate>Mon, 21 Dec 2020 14:32:17 +0100</pubDate>
       
-      <guid>http://localhost/posts/glossary/</guid>
+      <guid>https://blog.renautech.fr/posts/glossary/</guid>
       <description>API REST  Pour faire simple, une API REST est une application hébergée sur un serveur distant qui est interrogée par le navigateur avec des liens http ou https. Si vous êtes curieux, voici un article en Français sur le site de Practical Programming.
  Back  En complément du côté Front, le côté Back_ est la partie de l&amp;rsquo;application qui s&amp;rsquo;exécute sur un serveur distant de l&amp;rsquo;utilisateur. L&amp;rsquo;utilisateur interagit avec le Back via l&amp;rsquo;interface sur son navigateur.</description>
     </item>
     
     <item>
       <title>Les Jardins Connectés</title>
-      <link>http://localhost/posts/portfolio/jardinsconnectes/</link>
+      <link>https://blog.renautech.fr/posts/portfolio/jardinsconnectes/</link>
       <pubDate>Mon, 21 Dec 2020 14:32:17 +0100</pubDate>
       
-      <guid>http://localhost/posts/portfolio/jardinsconnectes/</guid>
+      <guid>https://blog.renautech.fr/posts/portfolio/jardinsconnectes/</guid>
       <description>Application Web Les Jardins Connectés   Cette application est une belle histoire. Elle a commencé dans ma tête en 2019. J&amp;rsquo;imaginais la développer en Python pour avoir un langage unique avec&amp;hellip; des objets connectés. J&amp;rsquo;avais donné des cours en Python, codé un peu sur des Raspberry et Arduino, c&amp;rsquo;était le plus naturel pour moi. En 2018 je développais en PHP avec le framework Laravel, j&amp;rsquo;aurais pu tenter aussi&amp;hellip;
 Finalement c&amp;rsquo;est en Javascript qu&amp;rsquo;elle s&amp;rsquo;écrit en 2020 dans le cadre d&amp;rsquo;une formation de 6 mois en Javascript chez O&amp;rsquo;clock.</description>
     </item>
     
     <item>
       <title>Inspiration</title>
-      <link>http://localhost/posts/company/inspiration/</link>
+      <link>https://blog.renautech.fr/posts/company/inspiration/</link>
       <pubDate>Wed, 16 Dec 2020 05:26:14 +0100</pubDate>
       
-      <guid>http://localhost/posts/company/inspiration/</guid>
+      <guid>https://blog.renautech.fr/posts/company/inspiration/</guid>
       <description>Inspiration ou respiration ? Je puise mon inspiration dans de nombreux domaines. C&amp;rsquo;est tellement naturel pour moi de changer d&amp;rsquo;angle de vue, comme une respiration. Je me suis toujours donné les moyens de changer de perspective.
 Prenons l&amp;rsquo;exemple d&amp;rsquo;une application Web à développer pour un métier. Quels sont les codes de ce métier ? Est-ce un métier plutôt visuel ? High-tech ? Quelles sont leurs valeurs ?
 Je suis comme un dessinateur qui a besoin de comprendre l&amp;rsquo;anatomie d&amp;rsquo;un animal pour mieux le représenter.</description>
@@ -40,10 +40,10 @@ Je suis comme un dessinateur qui a besoin de comprendre l&amp;rsquo;anatomie d&a
     
     <item>
       <title>Activité</title>
-      <link>http://localhost/posts/company/activity/</link>
+      <link>https://blog.renautech.fr/posts/company/activity/</link>
       <pubDate>Tue, 15 Dec 2020 21:01:47 +0100</pubDate>
       
-      <guid>http://localhost/posts/company/activity/</guid>
+      <guid>https://blog.renautech.fr/posts/company/activity/</guid>
       <description>Développement d&amp;rsquo;applications Web Techniquement, je suis à jour des dernières évolutions Javascript, React/Redux et NodeJS avec base de données PostgreSQL/MongoDB.
 J&amp;rsquo;ai en effet suivi une formation de 6 mois en 2020. Mais je code des applications et des sites web depuis plus de 10 ans, certaines pour mes propres besoins professionnels dans l&amp;rsquo;IT, d&amp;rsquo;autres pour des clients en freelance.
 Lorsque j&amp;rsquo;étais responsable IT, j&amp;rsquo;ai travaillé sur la supervision du réseau de l&amp;rsquo;entreprise, un réseau multi-sites de 6000 personnes en France.</description>
@@ -51,10 +51,10 @@ Lorsque j&amp;rsquo;étais responsable IT, j&amp;rsquo;ai travaillé sur la supe
     
     <item>
       <title>Mon expérience</title>
-      <link>http://localhost/posts/company/experience/</link>
+      <link>https://blog.renautech.fr/posts/company/experience/</link>
       <pubDate>Tue, 15 Dec 2020 20:56:37 +0100</pubDate>
       
-      <guid>http://localhost/posts/company/experience/</guid>
+      <guid>https://blog.renautech.fr/posts/company/experience/</guid>
       <description>Quinze ans d&amp;rsquo;expérience en gestion de projets d&amp;rsquo;infrastructure Systèmes et Réseaux.
 J&amp;rsquo;ai géré beaucoup de projets de toutes tailles, les plus gros étant des projets multisites à l&amp;rsquo;international impactant plusieurs milliers de personnes et des budgets de plusieurs millions d&amp;rsquo;euros.
 J&amp;rsquo;ai l&amp;rsquo;habitude de gérer l&amp;rsquo;exploitation systèmes et réseau (Microsoft, Cisco, HP, Dell&amp;hellip;).
