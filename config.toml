@@ -33,6 +33,7 @@ languageName = "français"
 [languages.en]
 weight = 2
 languageName = "English"
+
 [[languages.en.menu.main]]
   name = "Activity"
   weight = 1
