@@ -25,13 +25,14 @@ languageName = "français"
   weight = 1
   url = "posts/company/inspiration"
 [[languages.fr.menu.main]]
-  name = "Portfolio"
-  weight = 2
+  name = "Les Jardins Connectés"
+  weight = 1
   url = "posts/portfolio/jardinsconnectes"
 [[languages.fr.menu.main]]
   name = "Glossaire"
-  weight = 3
+  weight = 2
   url = "posts/glossary"
+
 
 
 [taxonomies]

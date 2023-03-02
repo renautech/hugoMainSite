@@ -20,11 +20,3 @@ Chaque réunion fait l'objet d'un compte-rendu et d'un plan d'action suivi à ch
 # Conseil
 
 J'ai mené de nombreux appels d'offres. Je suis spécialisé dans les infrastructures. Je peux travailler sur votre projet dès le besoin identifié. Nous préparons alors un cahier des charges pour solliciter vos partenaires. Je peux vous accompagner jusqu'au choix définitif.
-
-
-
-
-
-
-
-Si vous avez besoin de compétences techniques plus avancées qu'un chef de proje
