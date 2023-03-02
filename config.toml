@@ -5,13 +5,15 @@ theme = "hugo-coder"
 
 defaultContentLanguage = "fr"
 
+ignoreErrors = ["error-remote-getjson"]
+
 [languages.fr]
 weight = 1
 languageName = "français"
 #baseURL = "https://blog.renautech.fr"
 
 [[languages.fr.menu.main]]
-  name = "Activité"
+  name = "Services"
   weight = 1
   url = "posts/company/activity"
 [[languages.fr.menu.main]]
@@ -28,32 +30,6 @@ languageName = "français"
   url = "posts/portfolio/jardinsconnectes"
 [[languages.fr.menu.main]]
   name = "Glossaire"
-  weight = 2
-  url = "posts/glossary"
-
-[languages.en]
-weight = 2
-languageName = "English"
-#baseURL = "https://blog.renautech.fr"
-
-[[languages.en.menu.main]]
-  name = "Activity"
-  weight = 1
-  url = "posts/company/activity"
-[[languages.en.menu.main]]
-  name = "Experience"
-  weight = 1
-  url = "posts/company/experience"
-[[languages.en.menu.main]]
-  name = "Inspiration"
-  weight = 1
-  url = "posts/company/inspiration"
-[[languages.en.menu.main]]
-  name = "Connected Gardens"
-  weight = 1
-  url = "posts/portfolio/jardinsconnectes"
-[[languages.en.menu.main]]
-  name = "Glossary"
   weight = 2
   url = "posts/glossary"
 
@@ -95,7 +71,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Renaud Lamarre"
-  info = "Full Stack Web developer and IT Senior Project Manager"
+  info = "Chef de projet IT"
   description = "Renautech website"
   keywords = "fullstack developer, project manager, chef de projet, javascript, react, nodejs, web application, website"
   avatarurl = "images/avatar.jpg"
