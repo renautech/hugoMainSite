@@ -52,11 +52,6 @@ languageName = "français"
   weight = 2
   url = "https://github.com/renautech/"
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/renautech/"
-[[params.social]]
   name="Email"
   icon = "fa fa-envelope fa-2x"
   weight = 1
@@ -72,7 +67,7 @@ pygmentscodefencesguesssyntax = true
   author = "Renaud Lamarre"
   info = "Chef de projet IT"
   description = "Renautech website"
-  keywords = "fullstack developer, project manager, chef de projet, javascript, react, nodejs, web application, website"
+  keywords = "project manager, chef de projet, sécurité, projet, javascript, react, nodejs, web application, website"
   avatarurl = "images/avatar.jpg"
 
   favicon_32 = "/images/favicon-32x32.png"
